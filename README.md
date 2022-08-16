@@ -1,4 +1,19 @@
-### Hi there 👋
+### Iae! Meu ome é Fredy🟩🟨
+<hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+<div style="display: inline_block"><br>
+💻 - Desenvolvedor Web | Font End | Back End<br>
+📚 - JavaScript | Node.js
+</div>
+
+<div style="display: inline_block"><br>
+  <a href="https://www.linkedin.com/in/fredy-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+<hr>
+<div>
+ <a href="https://github.com/vnduda">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fredypdp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredypdp&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 <!--
 **fredypdp/fredypdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

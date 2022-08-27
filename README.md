@@ -3,7 +3,7 @@
 <div style="display: inline_block"><br>
 💻 - Desenvolvedor Web | Font End | Back End<br>
 📚 - JavaScript | Node.js <br>
-🌎 - Português | Inglês
+🌎 - Português | English
 </div>
 
 <div style="display: inline_block"><br>

@@ -2,7 +2,7 @@
 <hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 <div style="display: inline_block"><br>
 💻 - Web Developer| Font End | Back End<br>
-📚 - Node.js | Vue.js | MongoDB | MySql <br>
+📚 - Node.js | Vue.js | TypeScript | MongoDB | MySql <br>
 🌎 - Português | English | Español
 </div>
 
